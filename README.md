@@ -4,7 +4,7 @@
 
 This application can be used to write, save, and delete notes. This NodeJS application uses an Express backend to save and retrieve note data.
 
-The application is deployed and hosted on Heroku from this GitHub repo. The live page can be viewed here: https://ojashri-basnyat.github.io/Note-Taker/.
+The application is deployed and hosted on Heroku from this GitHub repo. The live page can be viewed here: https://ojashri-note-taker.herokuapp.com/
 
 
 ![Notiker homepage](public/assets/images/homepage.png)
