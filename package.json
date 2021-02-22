@@ -1,0 +1,21 @@
+{
+  "name": "express-note-taker",
+  "version": "1.0.0",
+  "description": "Express application that can be used to write, save, and delete notes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojashri-Basnyat/Note-Taker.git"
+  },
+  "author": "Ojashri Basnyat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
